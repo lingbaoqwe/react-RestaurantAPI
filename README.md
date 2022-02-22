@@ -1,3 +1,8 @@
+This is a project I did while learning React
+
+Web API built and hosted on Heroku: https://floating-badlands-57056.herokuapp.com/
+REST API server for Web data, link: https://pure-lowlands-34974.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
