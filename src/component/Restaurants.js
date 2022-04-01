@@ -44,7 +44,7 @@ function Restaurants(props) {
             </Card.Text>
           </Card.Body>
         </Card>
-        <Table striped bordered hover className="mt-2">
+        <Table striped bordered hover className="mt-3">
           <thead>
             <tr>
               <th>name</th>
@@ -63,7 +63,7 @@ function Restaurants(props) {
               >
                 <td>{restaurant.name}</td>
                 <td>
-                  {restaurant.address.building} {restaurant.address.street}
+                  {restaurant.address.street}{restaurant.address.building} 
                 </td>
                 <td>{restaurant.borough}</td>
                 <td>{restaurant.cuisine}</td>
